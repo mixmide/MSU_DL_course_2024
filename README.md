@@ -1,2 +1,7 @@
-# MSU_DL_course_2024
-A university-wide course on Deep Learning.
+# Курс по Deep Learning, МГУ, 2024
+
+Здесь находятся мои домашние работы по общеуниверситетскому курсу Deep Learning от МГУ.
+
+---
+
+**В РАЗРАБОТКЕ**
